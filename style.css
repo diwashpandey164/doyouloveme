@@ -103,6 +103,7 @@ body {
   bottom: 10%;
   left: 40%;
   font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 @media screen and (max-width:600px) {
